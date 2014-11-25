@@ -27,7 +27,6 @@
         <center>
         <h1>Welcome to JTest!</h1>
         <br>
-        <img src="img/statisimg.jpg"/>
         <br>
         <input type="button" value="CPU low" class="button1" onclick="load('cpu', 100)"/>
         <input type="button" value="CPU middle" class="button1" onclick="load('cpu', 100000)"/>
